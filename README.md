@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @JekyllXx
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning to grow
 - 😄 Pronouns: he/they
 - ⚡ Fun fact: ... the walls have ears
 
