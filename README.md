@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @JekyllXx
-- 😄 Pronouns: he/they
 - ⚡ Fun fact: ... the walls have ears
 
 <!---
